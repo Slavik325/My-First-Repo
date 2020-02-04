@@ -1,2 +1,6 @@
 # My-First-Repo
-I can`t find a way to solve problem with website refresh
+
+Parralax effect added
+
+to do:
+- margin beetween name and photo
